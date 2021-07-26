@@ -1,4 +1,4 @@
-# YouTube Trending Video
+# Trending YouTube Video Statistics
 
 ## Introduction
 
